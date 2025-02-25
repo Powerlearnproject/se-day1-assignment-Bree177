@@ -73,10 +73,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 4. Acceptance Testing: This includes comparing the software to business requirements to verify it fits the user's demands.  It is often performed by the client or end-users to ensure that the software is ready for distribution.
 
-Each type of testing plays a criti
-
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
